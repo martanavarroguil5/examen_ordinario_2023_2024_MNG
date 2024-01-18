@@ -1,5 +1,8 @@
 # examen_ordinario_2023_2024_MNG
 En este repositorio se encuentran los ejercicios del examen de ordinaria de Marta Navarro Guil 
+
+
+
 **Piramide**: Consiste en un juego ene el que el usuario indica cuantos niveles quiere que tengo una piramide y se enseña una piramide de tal altura
 
 
